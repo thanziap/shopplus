@@ -53,5 +53,7 @@ Welcome to **ShopPlus**, a simple eCommerce shopping website, which provides a u
 3. **For admin access, log in with admin credentials to access the admin dashboard where you can add or modify product information.**
 4. **Use the password reset feature via Mailtrap if you forget your password.**
 5. **During checkout, choose your preferred payment method: COD or card payment through Stripe.**
+   - For testing card payments with Stripe, use the default card number 4242 4242 4242 4242 with any future expiration date and any CVC.
+6. **After your item is ordered, you can leave a review for the product to share your experience with others.**
 
 > Feel free to copy this into your README file, and let me know if you need more help!
